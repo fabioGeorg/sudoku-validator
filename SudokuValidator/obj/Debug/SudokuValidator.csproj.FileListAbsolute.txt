@@ -1,0 +1,7 @@
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.exe.config
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.exe
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.pdb
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.csprojAssemblyReference.cache
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.csproj.CoreCompileInputs.cache
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.exe
+C:\Users\Donato\Documents\VisualStudioProjects\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.pdb
